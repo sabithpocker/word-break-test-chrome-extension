@@ -1,0 +1,19 @@
+{
+  "name": "WWT",
+  "version" : "1.0.0.1",
+  "manifest_version":2,
+  "icons" : {
+    "16" : "buzz-little.png",
+    "128" : "buzz-big.png"
+  },
+  "background" : {
+    "scripts" : ["backgrounda.js"],
+    "persistent": false
+    },
+  "permissions" : [
+    "tabs",
+    "contextMenus",
+      "http://*/*",
+      "https://*/*"
+    ]
+}
