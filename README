@@ -1,1 +1,6 @@
 Converts all the text in a page to long strings. Personal use in websites while testing word-break issues.
+
+Usage
+-----
+1. Install the plugin by going to chrome//extensions in browser. Mark developer mode for unpublished plugins.
+2. Right click on any page to see the word wrap options.
